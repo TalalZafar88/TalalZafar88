@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 ## 🚀 Data Engineer & Analytics Professional
 I'm a **Senior Data/Analytics Engineer** with 3+ years of hands-on experience building scalable, production-grade data pipelines and analytics solutions that directly impact business outcomes. I specialize in transforming complex data challenges into elegant, efficient solutions using modern cloud platforms and distributed computing frameworks.
 ## 🛠️ What I've Built
