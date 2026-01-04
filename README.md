@@ -2,9 +2,9 @@
 I'm a **Senior Data/Analytics Engineer** with 3+ years of hands-on experience building scalable, production-grade data pipelines and analytics solutions that directly impact business outcomes. I specialize in transforming complex data challenges into elegant, efficient solutions using modern cloud platforms and distributed computing frameworks.
 ## 🛠️ What I've Built
 ### Enterprise-Scale Data Infrastructure
-- Designed and maintained ETL pipelines processing **10M+ records daily** with **99.9% availability** across EMEA for leading telecom companies (Safaricom, Vodafone)
-- Migrated large-scale AWS data pipelines to Databricks, improving reliability by **35%** and reducing processing time by **40%**
-- Built scalable feature engineering platforms enabling ML models to segment **70M+ customers** and identify **4,000+ features** for customer profiling
+- Designed and maintained ETL pipelines processing **10M+ records daily** with **99.9% availability** across EMEA for leading telecom companies (Safaricom, Vodafone).
+- Migrated large-scale AWS data pipelines to Databricks, improving reliability by **35%** and reducing processing time by **40%**.
+- Built scalable feature engineering platforms enabling ML models to segment **70M+ customers** and identify **4,000+ features** for customer profiling.
 ### Analytics & Optimization
 - Engineered data-driven customer segmentation campaigns with **12-18% conversion lift** for high-value segments.
 - Optimized database performance by **30%** through intelligent indexing, partitioning, and purging strategies.
