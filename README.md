@@ -18,16 +18,11 @@ I'm a **Senior Data/Analytics Engineer** with 3+ years of hands-on experience bu
 ## 📚 Currently Learning
 I'm pursuing a **Master's in Artificial Intelligence** at Brandenburgische Technische Universität Cottbus-Senftenberg, expanding my expertise into machine learning, deep learning, and AI system design. My goal is to bridge the gap between data engineering and applied AI—building intelligent data systems that leverage ML models for advanced analytics and predictions.
 
-## 💻 Tech Stack
-### Languages: Python, SQL, Bash, JavaScript, TypeScript, C++
-### Platforms: GCP (BigQuery, Cloud Run), AWS (Glue, Redshift, Kinesis), Azure (Synapse, Data Factory, DevOps), Databricks
-### Orchestration & ML: Airflow, Prefect, MLflow, TensorFlow, PyTorch, Scikit-learn
-### Tools: Spark, Kubernetes, Docker, Git, dbt, Streamlit, Power BI, Tableau
-
 ## 🌍 Domains
-Fintech | Telco | Consultancy
+### Fintech | Telco | Consultancy
 
-## Languages:  English (Fluent) | German (Basic) | Urdu (Native) | Hindi (Fluent)
+## Languages:  
+### English (Fluent) | German (Basic) | Urdu (Native) | Hindi (Fluent)
 
 
 ## 🌐 Socials:
