@@ -5,6 +5,7 @@ I'm a **Senior Data/Analytics Engineer** with 3+ years of hands-on experience bu
 - Designed and maintained ETL pipelines processing **10M+ records daily** with **99.9% availability** across EMEA for leading telecom companies (Safaricom, Vodafone).
 - Migrated large-scale AWS data pipelines to Databricks, improving reliability by **35%** and reducing processing time by **40%**.
 - Built scalable feature engineering platforms enabling ML models to segment **70M+ customers** and identify **4,000+ features** for customer profiling.
+<br><br>
 ### Analytics & Optimization
 - Engineered data-driven customer segmentation campaigns with **12-18% conversion lift** for high-value segments.
 - Optimized database performance by **30%** through intelligent indexing, partitioning, and purging strategies.
