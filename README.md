@@ -20,8 +20,8 @@ I'm pursuing a **Master's in Artificial Intelligence** at Brandenburgische Techn
 
 ## 💻 Tech Stack
 ### Languages: Python, SQL, Bash, JavaScript, TypeScript, C++
-### Platforms:** GCP (BigQuery, Cloud Run), AWS (Glue, Redshift, Kinesis), Azure (Synapse, Data Factory, DevOps), Databricks
-### Orchestration & ML:** Airflow, Prefect, MLflow, TensorFlow, PyTorch, Scikit-learn
+### Platforms: GCP (BigQuery, Cloud Run), AWS (Glue, Redshift, Kinesis), Azure (Synapse, Data Factory, DevOps), Databricks
+### Orchestration & ML: Airflow, Prefect, MLflow, TensorFlow, PyTorch, Scikit-learn
 ### Tools: Spark, Kubernetes, Docker, Git, dbt, Streamlit, Power BI, Tableau
 
 ## 🌍 Domains
